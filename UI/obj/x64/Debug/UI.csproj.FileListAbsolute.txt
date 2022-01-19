@@ -1,0 +1,421 @@
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\AppDatabase.accdb
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\UI.exe.config
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\UI.exe
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\UI.pdb
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.BootstrapIcons.pdb
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.BootstrapIcons.xml
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Codicons.pdb
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Codicons.xml
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Coolicons.pdb
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Coolicons.xml
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.FileIcons.pdb
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.FileIcons.xml
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Fontaudio.pdb
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Fontaudio.xml
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Fontisto.pdb
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Fontisto.xml
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.ForkAwesome.pdb
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.ForkAwesome.xml
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.PixelartIcons.pdb
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.PixelartIcons.xml
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.RadixIcons.pdb
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.RadixIcons.xml
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.RemixIcon.pdb
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.RemixIcon.xml
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.VaadinIcons.pdb
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.VaadinIcons.xml
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\Kalle\Desktop\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\Kalle\Desktop\UI\UI\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Kalle\Desktop\UI\UI\obj\x64\Debug\Pages\AddingProduct.g.cs
+C:\Users\Kalle\Desktop\UI\UI\obj\x64\Debug\Pages\AddingRecipe.g.cs
+C:\Users\Kalle\Desktop\UI\UI\obj\x64\Debug\Pages\EditInfo.g.cs
+C:\Users\Kalle\Desktop\UI\UI\obj\x64\Debug\Pages\Recipe.g.cs
+C:\Users\Kalle\Desktop\UI\UI\obj\x64\Debug\Pages\ShoppingList.g.cs
+C:\Users\Kalle\Desktop\UI\UI\obj\x64\Debug\Pages\StoragePage.g.cs
+C:\Users\Kalle\Desktop\UI\UI\obj\x64\Debug\Pages\UserPage.g.cs
+C:\Users\Kalle\Desktop\UI\UI\obj\x64\Debug\Register.g.cs
+C:\Users\Kalle\Desktop\UI\UI\obj\x64\Debug\UserWindow.g.cs
+C:\Users\Kalle\Desktop\UI\UI\obj\x64\Debug\App.g.cs
+C:\Users\Kalle\Desktop\UI\UI\obj\x64\Debug\UI_Content.g.cs
+C:\Users\Kalle\Desktop\UI\UI\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Kalle\Desktop\UI\UI\obj\x64\Debug\UI_MarkupCompile.cache
+C:\Users\Kalle\Desktop\UI\UI\obj\x64\Debug\UI_MarkupCompile.lref
+C:\Users\Kalle\Desktop\UI\UI\obj\x64\Debug\App.baml
+C:\Users\Kalle\Desktop\UI\UI\obj\x64\Debug\MainWindow.baml
+C:\Users\Kalle\Desktop\UI\UI\obj\x64\Debug\Pages\AddingProduct.baml
+C:\Users\Kalle\Desktop\UI\UI\obj\x64\Debug\Pages\AddingRecipe.baml
+C:\Users\Kalle\Desktop\UI\UI\obj\x64\Debug\Pages\EditInfo.baml
+C:\Users\Kalle\Desktop\UI\UI\obj\x64\Debug\Pages\Recipe.baml
+C:\Users\Kalle\Desktop\UI\UI\obj\x64\Debug\Pages\ShoppingList.baml
+C:\Users\Kalle\Desktop\UI\UI\obj\x64\Debug\Pages\StoragePage.baml
+C:\Users\Kalle\Desktop\UI\UI\obj\x64\Debug\Pages\UserPage.baml
+C:\Users\Kalle\Desktop\UI\UI\obj\x64\Debug\Register.baml
+C:\Users\Kalle\Desktop\UI\UI\obj\x64\Debug\Themes\Generic.baml
+C:\Users\Kalle\Desktop\UI\UI\obj\x64\Debug\UserWindow.baml
+C:\Users\Kalle\Desktop\UI\UI\obj\x64\Debug\UI.g.resources
+C:\Users\Kalle\Desktop\UI\UI\obj\x64\Debug\UI.Properties.Resources.resources
+C:\Users\Kalle\Desktop\UI\UI\obj\x64\Debug\UI.csproj.GenerateResource.cache
+C:\Users\Kalle\Desktop\UI\UI\obj\x64\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Kalle\Desktop\UI\UI\obj\x64\Debug\UI.csproj.CopyComplete
+C:\Users\Kalle\Desktop\UI\UI\obj\x64\Debug\UI.exe
+C:\Users\Kalle\Desktop\UI\UI\obj\x64\Debug\UI.pdb
+C:\Users\Kalle\Desktop\Ui\UI\obj\x64\Debug\Pages\RecipeInfo.g.cs
+C:\Users\Kalle\Desktop\Ui\UI\obj\x64\Debug\Pages\RecipeInfo.baml
+C:\Users\Kalle\Desktop\Ui\UI\obj\x64\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\AppDatabase.accdb
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\UI.exe.config
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\UI.exe
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\UI.pdb
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.BootstrapIcons.pdb
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.BootstrapIcons.xml
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Codicons.pdb
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Codicons.xml
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Coolicons.pdb
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Coolicons.xml
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.FileIcons.pdb
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.FileIcons.xml
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Fontaudio.pdb
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Fontaudio.xml
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Fontisto.pdb
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Fontisto.xml
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.ForkAwesome.pdb
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.ForkAwesome.xml
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.PixelartIcons.pdb
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.PixelartIcons.xml
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.RadixIcons.pdb
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.RadixIcons.xml
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.RemixIcon.pdb
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.RemixIcon.xml
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.VaadinIcons.pdb
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.VaadinIcons.xml
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\x075004\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\x075004\Downloads\UI\UI\UI\obj\x64\Debug\MainWindow.g.cs
+C:\Users\x075004\Downloads\UI\UI\UI\obj\x64\Debug\Pages\AddingProduct.g.cs
+C:\Users\x075004\Downloads\UI\UI\UI\obj\x64\Debug\Pages\AddingRecipe.g.cs
+C:\Users\x075004\Downloads\UI\UI\UI\obj\x64\Debug\Pages\EditInfo.g.cs
+C:\Users\x075004\Downloads\UI\UI\UI\obj\x64\Debug\Pages\Recipe.g.cs
+C:\Users\x075004\Downloads\UI\UI\UI\obj\x64\Debug\Pages\RecipeInfo.g.cs
+C:\Users\x075004\Downloads\UI\UI\UI\obj\x64\Debug\Pages\ShoppingList.g.cs
+C:\Users\x075004\Downloads\UI\UI\UI\obj\x64\Debug\Pages\StoragePage.g.cs
+C:\Users\x075004\Downloads\UI\UI\UI\obj\x64\Debug\Pages\UserPage.g.cs
+C:\Users\x075004\Downloads\UI\UI\UI\obj\x64\Debug\Register.g.cs
+C:\Users\x075004\Downloads\UI\UI\UI\obj\x64\Debug\UserWindow.g.cs
+C:\Users\x075004\Downloads\UI\UI\UI\obj\x64\Debug\App.g.cs
+C:\Users\x075004\Downloads\UI\UI\UI\obj\x64\Debug\UI_Content.g.cs
+C:\Users\x075004\Downloads\UI\UI\UI\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\x075004\Downloads\UI\UI\UI\obj\x64\Debug\UI_MarkupCompile.cache
+C:\Users\x075004\Downloads\UI\UI\UI\obj\x64\Debug\UI_MarkupCompile.lref
+C:\Users\x075004\Downloads\UI\UI\UI\obj\x64\Debug\App.baml
+C:\Users\x075004\Downloads\UI\UI\UI\obj\x64\Debug\MainWindow.baml
+C:\Users\x075004\Downloads\UI\UI\UI\obj\x64\Debug\Pages\AddingProduct.baml
+C:\Users\x075004\Downloads\UI\UI\UI\obj\x64\Debug\Pages\AddingRecipe.baml
+C:\Users\x075004\Downloads\UI\UI\UI\obj\x64\Debug\Pages\EditInfo.baml
+C:\Users\x075004\Downloads\UI\UI\UI\obj\x64\Debug\Pages\Recipe.baml
+C:\Users\x075004\Downloads\UI\UI\UI\obj\x64\Debug\Pages\RecipeInfo.baml
+C:\Users\x075004\Downloads\UI\UI\UI\obj\x64\Debug\Pages\ShoppingList.baml
+C:\Users\x075004\Downloads\UI\UI\UI\obj\x64\Debug\Pages\StoragePage.baml
+C:\Users\x075004\Downloads\UI\UI\UI\obj\x64\Debug\Pages\UserPage.baml
+C:\Users\x075004\Downloads\UI\UI\UI\obj\x64\Debug\Register.baml
+C:\Users\x075004\Downloads\UI\UI\UI\obj\x64\Debug\Themes\Generic.baml
+C:\Users\x075004\Downloads\UI\UI\UI\obj\x64\Debug\UserWindow.baml
+C:\Users\x075004\Downloads\UI\UI\UI\obj\x64\Debug\UI.g.resources
+C:\Users\x075004\Downloads\UI\UI\UI\obj\x64\Debug\UI.Properties.Resources.resources
+C:\Users\x075004\Downloads\UI\UI\UI\obj\x64\Debug\UI.csproj.GenerateResource.cache
+C:\Users\x075004\Downloads\UI\UI\UI\obj\x64\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\x075004\Downloads\UI\UI\UI\obj\x64\Debug\UI.csproj.CopyComplete
+C:\Users\x075004\Downloads\UI\UI\UI\obj\x64\Debug\UI.exe
+C:\Users\x075004\Downloads\UI\UI\UI\obj\x64\Debug\UI.pdb
+C:\Users\x075004\Downloads\UI\UI\UI\obj\x64\Debug\UI.csprojAssemblyReference.cache
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\AppDatabase.accdb
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\UI.exe.config
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\UI.exe
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\UI.pdb
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.BootstrapIcons.pdb
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.BootstrapIcons.xml
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Codicons.pdb
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Codicons.xml
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Coolicons.pdb
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Coolicons.xml
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.FileIcons.pdb
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.FileIcons.xml
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Fontaudio.pdb
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Fontaudio.xml
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Fontisto.pdb
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Fontisto.xml
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.ForkAwesome.pdb
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.ForkAwesome.xml
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.PixelartIcons.pdb
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.PixelartIcons.xml
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.RadixIcons.pdb
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.RadixIcons.xml
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.RemixIcon.pdb
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.RemixIcon.xml
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.VaadinIcons.pdb
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.VaadinIcons.xml
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\EL NAUL\Downloads\UI\UI\UI\bin\x64\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\EL NAUL\Downloads\UI\UI\UI\obj\x64\Debug\UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\EL NAUL\Downloads\UI\UI\UI\obj\x64\Debug\MainWindow.g.cs
+C:\Users\EL NAUL\Downloads\UI\UI\UI\obj\x64\Debug\Pages\AddingProduct.g.cs
+C:\Users\EL NAUL\Downloads\UI\UI\UI\obj\x64\Debug\Pages\AddingRecipe.g.cs
+C:\Users\EL NAUL\Downloads\UI\UI\UI\obj\x64\Debug\Pages\EditInfo.g.cs
+C:\Users\EL NAUL\Downloads\UI\UI\UI\obj\x64\Debug\Pages\Recipe.g.cs
+C:\Users\EL NAUL\Downloads\UI\UI\UI\obj\x64\Debug\Pages\RecipeInfo.g.cs
+C:\Users\EL NAUL\Downloads\UI\UI\UI\obj\x64\Debug\Pages\ShoppingList.g.cs
+C:\Users\EL NAUL\Downloads\UI\UI\UI\obj\x64\Debug\Pages\StoragePage.g.cs
+C:\Users\EL NAUL\Downloads\UI\UI\UI\obj\x64\Debug\Pages\UserPage.g.cs
+C:\Users\EL NAUL\Downloads\UI\UI\UI\obj\x64\Debug\Register.g.cs
+C:\Users\EL NAUL\Downloads\UI\UI\UI\obj\x64\Debug\UserWindow.g.cs
+C:\Users\EL NAUL\Downloads\UI\UI\UI\obj\x64\Debug\App.g.cs
+C:\Users\EL NAUL\Downloads\UI\UI\UI\obj\x64\Debug\UI_Content.g.cs
+C:\Users\EL NAUL\Downloads\UI\UI\UI\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\EL NAUL\Downloads\UI\UI\UI\obj\x64\Debug\UI_MarkupCompile.cache
+C:\Users\EL NAUL\Downloads\UI\UI\UI\obj\x64\Debug\UI_MarkupCompile.lref
+C:\Users\EL NAUL\Downloads\UI\UI\UI\obj\x64\Debug\App.baml
+C:\Users\EL NAUL\Downloads\UI\UI\UI\obj\x64\Debug\MainWindow.baml
+C:\Users\EL NAUL\Downloads\UI\UI\UI\obj\x64\Debug\Pages\AddingProduct.baml
+C:\Users\EL NAUL\Downloads\UI\UI\UI\obj\x64\Debug\Pages\AddingRecipe.baml
+C:\Users\EL NAUL\Downloads\UI\UI\UI\obj\x64\Debug\Pages\EditInfo.baml
+C:\Users\EL NAUL\Downloads\UI\UI\UI\obj\x64\Debug\Pages\Recipe.baml
+C:\Users\EL NAUL\Downloads\UI\UI\UI\obj\x64\Debug\Pages\RecipeInfo.baml
+C:\Users\EL NAUL\Downloads\UI\UI\UI\obj\x64\Debug\Pages\ShoppingList.baml
+C:\Users\EL NAUL\Downloads\UI\UI\UI\obj\x64\Debug\Pages\StoragePage.baml
+C:\Users\EL NAUL\Downloads\UI\UI\UI\obj\x64\Debug\Pages\UserPage.baml
+C:\Users\EL NAUL\Downloads\UI\UI\UI\obj\x64\Debug\Register.baml
+C:\Users\EL NAUL\Downloads\UI\UI\UI\obj\x64\Debug\Themes\Generic.baml
+C:\Users\EL NAUL\Downloads\UI\UI\UI\obj\x64\Debug\UserWindow.baml
+C:\Users\EL NAUL\Downloads\UI\UI\UI\obj\x64\Debug\UI.g.resources
+C:\Users\EL NAUL\Downloads\UI\UI\UI\obj\x64\Debug\UI.Properties.Resources.resources
+C:\Users\EL NAUL\Downloads\UI\UI\UI\obj\x64\Debug\UI.csproj.GenerateResource.cache
+C:\Users\EL NAUL\Downloads\UI\UI\UI\obj\x64\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\EL NAUL\Downloads\UI\UI\UI\obj\x64\Debug\UI.csproj.CopyComplete
+C:\Users\EL NAUL\Downloads\UI\UI\UI\obj\x64\Debug\UI.exe
+C:\Users\EL NAUL\Downloads\UI\UI\UI\obj\x64\Debug\UI.pdb
+C:\Users\EL NAUL\Downloads\UI\UI\UI\obj\x64\Debug\UI.csproj.AssemblyReference.cache
